@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PrestamosApp.Api/PrestamosApp.Api.csproj" />
+  <Project Path="PrestamosApp.Application/PrestamosApp.Application.csproj" />
+  <Project Path="PrestamosApp.Domain/PrestamosApp.Domain.csproj" />
+  <Project Path="PrestamosApp.Infrastructure/PrestamosApp.Infrastructure.csproj" />
+</Solution>

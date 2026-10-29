@@ -1,0 +1,42 @@
+﻿# .NET
+**/bin/
+**/obj/
+.vs/
+TestResults/
+*.user
+*.suo
+
+# Configuración local y secretos
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/secrets.json
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets/
+
+# Frontend
+**/node_modules/
+**/dist/
+**/coverage/
+
+# Android: archivos generados
+**/.gradle/
+**/android/app/build/
+**/android/build/
+
+# Respaldos y bases de datos locales
+*.dump
+*.bak
+*.backup
+*.sql
+PrestamosDb-backup-*
+
+# Logs y archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Respaldos locales de archivos
+*.respaldo
